@@ -6,3 +6,7 @@ const handlemap = (e)=>{
 }
 
 fruits.map(handlemap)
+function kama(){
+    return "hello"
+   
+}
